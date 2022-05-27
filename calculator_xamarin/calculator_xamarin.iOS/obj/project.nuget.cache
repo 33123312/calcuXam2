@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "QVBiNRrEikebLp1b2T7nFGWvtDTYA9y86bqmdybBQZl9whwvxh5z0Mh9pxT2mhta9sq0VxPjkVoyhBSCUub2Pg==",
+  "dgSpecHash": "bkv8IIxc74sKCJ6Js1rLJqxYsuROk4nmwJ/tvjtG/5gEiHrfdp2JaBOjfrB3bpQqqbSO2Tmmu+JG6FkKEEbAvA==",
   "success": true,
-  "projectFilePath": "D:\\proyXam\\calcuXam\\calculator_xamarin\\calculator_xamarin.iOS\\calculator_xamarin.iOS.csproj",
+  "projectFilePath": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin.iOS\\calculator_xamarin.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\escal\\.nuget\\packages\\angourimath\\1.2.0\\angourimath.1.2.0.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\antlr4.runtime.standard\\4.9.1\\antlr4.runtime.standard.4.9.1.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\fieldcache\\1.0.0-alpha.3\\fieldcache.1.0.0-alpha.3.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\generictensor\\0.1.2.1\\generictensor.0.1.2.1.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\petero.numbers\\1.7.4\\petero.numbers.1.7.4.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\escal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-rc.1.20451.14\\system.runtime.compilerservices.unsafe.5.0.0-rc.1.20451.14.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "C:\\Users\\lalit\\.nuget\\packages\\angourimath\\1.2.0\\angourimath.1.2.0.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\antlr4.runtime.standard\\4.9.1\\antlr4.runtime.standard.4.9.1.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\fieldcache\\1.0.0-alpha.3\\fieldcache.1.0.0-alpha.3.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\generictensor\\0.1.2.1\\generictensor.0.1.2.1.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\petero.numbers\\1.7.4\\petero.numbers.1.7.4.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-rc.1.20451.14\\system.runtime.compilerservices.unsafe.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\lalit\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }

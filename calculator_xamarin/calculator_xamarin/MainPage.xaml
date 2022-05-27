@@ -7,7 +7,6 @@
         <Label HeightRequest="20"></Label>
         <Label  x:Name="second_number_add" HorizontalTextAlignment="End" FontSize="30" Text="" TextColor="#C0C0C0"></Label>
         <Label HeightRequest="60"></Label>
-        <Button WidthRequest="60" HeightRequest="60" Text="⌫" FontSize="25" HorizontalOptions="End" BackgroundColor="Transparent" Clicked="back_clicked"></Button>
         <StackLayout Orientation="Horizontal" VerticalOptions="End">
             <StackLayout HorizontalOptions="CenterAndExpand">
                 <StackLayout Orientation="Horizontal">

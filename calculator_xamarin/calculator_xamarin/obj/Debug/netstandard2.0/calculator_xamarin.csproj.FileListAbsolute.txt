@@ -1,0 +1,15 @@
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.csproj.AssemblyReference.cache
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.AssemblyInfoInputs.cache
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.AssemblyInfo.cs
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.csproj.CoreCompileInputs.cache
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.dll
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\refint\calculator_xamarin.dll
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.pdb
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\bin\Debug\netstandard2.0\calculator_xamarin.deps.json
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\bin\Debug\netstandard2.0\calculator_xamarin.dll
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\bin\Debug\netstandard2.0\calculator_xamarin.pdb
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\visualStudio2022\calcuXam2-master\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\ref\calculator_xamarin.dll

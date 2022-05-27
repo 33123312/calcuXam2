@@ -42,6 +42,10 @@ namespace calculator_xamarin
 
         private char LastChar()
         {
+            if(current_opt.Length == 0)
+            {
+                return '0';
+            }
             return current_opt[current_opt.Length - 1];
         }
 
@@ -66,7 +70,7 @@ namespace calculator_xamarin
                 if(output%1 == 0)
                 {
                     int o = Convert.ToInt32(output);
-                    Convert.ToString(Convert.ToString(o));
+                    setNShow(Convert.ToString(o));
                 }
                 else
                 {
@@ -81,10 +85,10 @@ namespace calculator_xamarin
 
         private void Bracket(object sender, EventArgs args)
         {
-            if (LastChar() == ')' && !isOnOperation())
+            Button btn = (Button)sender;
+            string btn_text = (String)btn.BindingContext;
+            if (!(btn_text == ")" && isOnOperation()))
             {
-                Button btn = (Button)Sender;
-                string btn_text = (String)btn.BindingContext;
                 addNShow(btn_text);
             }
         }
@@ -104,7 +108,7 @@ namespace calculator_xamarin
         private void addOperation(object sender, EventArgs args)
         {
             if (!isOnOperation()){
-                Button btn = (Button)Sender;
+                Button btn = (Button)sender;
                 string btn_text = (String)btn.BindingContext;
 
                 if(!((btn_text == "/" || btn_text == "*") && LastChar() == '('))
@@ -117,10 +121,10 @@ namespace calculator_xamarin
 
         private void addNumber(object sender, EventArgs args)
         {
-            Button btn = (Button)Sender;
+            Button btn = (Button)sender;
             string btn_text = (String)btn.BindingContext;
-
-            if (!isClosingBracket() && LastChar() != '.')
+            
+            if (!(isClosingBracket() && btn_text == "."))
             {
                 addNShow(btn_text);
             }
@@ -129,7 +133,7 @@ namespace calculator_xamarin
 
         private void Clean(object sender, EventArgs args)
         {
-            current_opt = "";
+            setNShow("");    
         }
 
     }
