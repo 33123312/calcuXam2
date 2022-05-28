@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {}
+    "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {}
   },
   "projects": {
-    "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {
+    "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj",
+        "projectUniqueName": "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj",
         "projectName": "calculator_xamarin",
-        "projectPath": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj",
-        "packagesPath": "C:\\Users\\lalit\\.nuget\\packages\\",
-        "outputPath": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin\\obj\\",
+        "projectPath": "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj",
+        "packagesPath": "C:\\Users\\escal\\.nuget\\packages\\",
+        "outputPath": "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lalit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\escal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +73,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

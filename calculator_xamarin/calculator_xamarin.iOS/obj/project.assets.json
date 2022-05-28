@@ -1509,32 +1509,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lalit\\.nuget\\packages\\": {}
+    "C:\\Users\\escal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin.iOS\\calculator_xamarin.iOS.csproj",
+      "projectUniqueName": "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin.iOS\\calculator_xamarin.iOS.csproj",
       "projectName": "calculator_xamarin.iOS",
-      "projectPath": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin.iOS\\calculator_xamarin.iOS.csproj",
-      "packagesPath": "C:\\Users\\lalit\\.nuget\\packages\\",
-      "outputPath": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin.iOS\\obj\\",
+      "projectPath": "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin.iOS\\calculator_xamarin.iOS.csproj",
+      "packagesPath": "C:\\Users\\escal\\.nuget\\packages\\",
+      "outputPath": "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\lalit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\escal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {
-              "projectPath": "D:\\visualStudio2022\\calcuXam2-master\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj"
+            "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {
+              "projectPath": "D:\\proyXam\\calcuXam2\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj"
             }
           }
         }
