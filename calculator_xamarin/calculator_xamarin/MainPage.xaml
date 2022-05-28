@@ -10,48 +10,48 @@
         <StackLayout Orientation="Horizontal" VerticalOptions="End">
             <StackLayout HorizontalOptions="CenterAndExpand">
                 <StackLayout Orientation="Horizontal">
-                    <Button  WidthRequest="190" HeightRequest="43" Text="Log" BindingContext="log("  FontSize="25" TextColor="#3ADA3F" Clicked="Clean"></Button>
-                    <Button  WidthRequest="190" HeightRequest="43" Text="Ln" BindingContext="ln(" FontSize="25" TextColor="#3ADA3F" Clicked="Bracket"></Button>
+                    <Button  WidthRequest="190" HeightRequest="43" Text="Log" BindingContext="log("  FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="190" HeightRequest="43" Text="Ln" BindingContext="ln(" FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Button  WidthRequest="95" HeightRequest="43" Text="^2" BindingContext="^2"  FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
-                    <Button  WidthRequest="95" HeightRequest="43" Text="^3" BindingContext="^3" FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
-                    <Button  WidthRequest="95" HeightRequest="43" Text="^4" BindingContext="^4"  FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
-                    <Button  WidthRequest="95" HeightRequest="43" Text="√ " BindingContext="sqrt(" FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="^2" BindingContext="^2"  FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="^3" BindingContext="^3" FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="^4" BindingContext="^4"  FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="√ " BindingContext="sqrt(" FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Button  WidthRequest="95" HeightRequest="43" Text="Sen" BindingContext="sin("  FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
-                    <Button  WidthRequest="95" HeightRequest="43" Text="Cos" BindingContext="cos(" FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
-                    <Button  WidthRequest="95" HeightRequest="43" Text="Tan" BindingContext="tan("  FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
-                    <Button  WidthRequest="95" HeightRequest="43" Text="e" BindingContext="e" FontSize="25" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="Sen" BindingContext="sin("  FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="Cos" BindingContext="cos(" FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="Tan" BindingContext="tan("  FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
+                    <Button  WidthRequest="95" HeightRequest="43" Text="e" BindingContext="e" FontSize="15" TextColor="#3ADA3F" Clicked="addNumber"></Button>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Button x:Name="clear_btn" WidthRequest="95" HeightRequest="43" Text="C" FontSize="25" TextColor="#C14B20" Clicked="Clean"></Button>
-                    <Button x:Name="bracket_btn" WidthRequest="95" HeightRequest="43" Text="(" BindingContext="(" FontSize="25" TextColor="#3ADA3F" Clicked="Bracket"></Button>
-                    <Button x:Name="bracket_btn2" WidthRequest="95" HeightRequest="43" Text=")" BindingContext=")"  FontSize="25" TextColor="#3ADA3F" Clicked="Bracket"></Button>
-                    <Button x:Name="div_btn"  WidthRequest="95" HeightRequest="43" Text="÷" BindingContext="/" FontSize="25" TextColor="#3ADA3F" Clicked="addOperation"></Button>
+                    <Button x:Name="clear_btn" WidthRequest="95" HeightRequest="43" Text="C" FontSize="15" TextColor="#C14B20" Clicked="Clean"></Button>
+                    <Button x:Name="bracket_btn" WidthRequest="95" HeightRequest="43" Text="(" BindingContext="(" FontSize="15" TextColor="#3ADA3F" Clicked="Bracket"></Button>
+                    <Button x:Name="bracket_btn2" WidthRequest="95" HeightRequest="43" Text=")" BindingContext=")"  FontSize="15" TextColor="#3ADA3F" Clicked="Bracket"></Button>
+                    <Button x:Name="div_btn"  WidthRequest="95" HeightRequest="43" Text="÷" BindingContext="/" FontSize="15" TextColor="#3ADA3F" Clicked="addOperation"></Button>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Button x:Name="seven_btn"  WidthRequest="95" HeightRequest="43" Text="7" BindingContext ="7"  FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="eight_btn"  WidthRequest="95" HeightRequest="43" Text="8" BindingContext ="8" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="nine_btn"  WidthRequest="95" HeightRequest="43" Text="9" BindingContext ="9" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="multi_btn"  WidthRequest="95" HeightRequest="43" Text="×" BindingContext ="*" FontSize="25" TextColor="#3ADA3F" Clicked="addOperation"></Button>
+                    <Button x:Name="seven_btn"  WidthRequest="95" HeightRequest="43" Text="7" BindingContext ="7"  FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="eight_btn"  WidthRequest="95" HeightRequest="43" Text="8" BindingContext ="8" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="nine_btn"  WidthRequest="95" HeightRequest="43" Text="9" BindingContext ="9" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="multi_btn"  WidthRequest="95" HeightRequest="43" Text="×" BindingContext ="*" FontSize="15" TextColor="#3ADA3F" Clicked="addOperation"></Button>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Button x:Name="four_btn"  WidthRequest="95" HeightRequest="43" Text="4" BindingContext ="4" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="five_btn"  WidthRequest="95" HeightRequest="43" Text="5" BindingContext ="5" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="six_btn"  WidthRequest="95" HeightRequest="43" Text="6" BindingContext ="6" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="subtract_btn"  WidthRequest="95" HeightRequest="43" Text="-" BindingContext ="-" FontSize="25" TextColor="#3ADA3F" Clicked="addOperation"></Button>
+                    <Button x:Name="four_btn"  WidthRequest="95" HeightRequest="43" Text="4" BindingContext ="4" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="five_btn"  WidthRequest="95" HeightRequest="43" Text="5" BindingContext ="5" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="six_btn"  WidthRequest="95" HeightRequest="43" Text="6" BindingContext ="6" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="subtract_btn"  WidthRequest="95" HeightRequest="43" Text="-" BindingContext ="-" FontSize="15" TextColor="#3ADA3F" Clicked="addOperation"></Button>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Button x:Name="one_btn"  WidthRequest="95" HeightRequest="43" Text="1" BindingContext ="1" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="two_btn"  WidthRequest="95" HeightRequest="43" Text="2" BindingContext ="2" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="three_btn"  WidthRequest="95" HeightRequest="43" Text="3" BindingContext ="3" FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="add_btn"  WidthRequest="95" HeightRequest="43" Text="+" BindingContext ="+" FontSize="25" TextColor="#3ADA3F" Clicked="addOperation"></Button>
+                    <Button x:Name="one_btn"  WidthRequest="95" HeightRequest="43" Text="1" BindingContext ="1" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="two_btn"  WidthRequest="95" HeightRequest="43" Text="2" BindingContext ="2" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="three_btn"  WidthRequest="95" HeightRequest="43" Text="3" BindingContext ="3" FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="add_btn"  WidthRequest="95" HeightRequest="43" Text="+" BindingContext ="+" FontSize="15" TextColor="#3ADA3F" Clicked="addOperation"></Button>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Button x:Name="dot_btn"  WidthRequest="95" HeightRequest="43" Text="." BindingContext ="." FontSize="25" Clicked="addNumber"></Button>
-                    <Button x:Name="zero_btn"  WidthRequest="95" HeightRequest="43" Text="0" BindingContext ="0" FontSize="25" Clicked="addNumber"></Button>
+                    <Button x:Name="dot_btn"  WidthRequest="95" HeightRequest="43" Text="." BindingContext ="." FontSize="15" Clicked="addNumber"></Button>
+                    <Button x:Name="zero_btn"  WidthRequest="95" HeightRequest="43" Text="0" BindingContext ="0" FontSize="15" Clicked="addNumber"></Button>
                     <Button x:Name="equal_btn"  WidthRequest="200" HeightRequest="43" Text="=" FontSize="35" BackgroundColor="#1FB924" TextColor="White" Clicked="Equal"></Button>
                 </StackLayout>
             </StackLayout>
