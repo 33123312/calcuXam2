@@ -59,7 +59,6 @@ namespace calculator_xamarin
         {
             return LastChar() == ')';
         }
-
         
         private void Equal(object sender, EventArgs args)
         {
